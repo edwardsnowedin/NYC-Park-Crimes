@@ -6,5 +6,5 @@
 
 ## Code and Resources: 
 **Python Version**: 3.6<br>
-**Packages**: pandas, numpy, matplotlib, seaborn, sklearn, GetOldTweets3, langdetect, gensim, re, nltk
+**Packages**: pandas, numpy, matplotlib, seaborn, sklearn, GetOldTweets3, langdetect, gensim, re, nltk, wordcloud
 
