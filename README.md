@@ -3,3 +3,8 @@
 
 ## Data
 <p> The data was provided by the New York City Police Department (NYPD). See here: (https://www1.nyc.gov/site/nypd/stats/crime-statistics/park-crime-stats.page) </p>
+
+## Code and Resources: 
+**Python Version**: 3.6<br>
+**Packages**: pandas, numpy, matplotlib, seaborn, sklearn, GetOldTweets3, langdetect, gensim, re, nltk
+
