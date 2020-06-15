@@ -8,3 +8,7 @@
 **Python Version**: 3.6<br>
 **Packages**: pandas, numpy, matplotlib, seaborn, sklearn, GetOldTweets3, langdetect, gensim, re, nltk, wordcloud
 
+## Exploratory Data Analysis (EDA)
+<img src="line_plot.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
