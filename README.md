@@ -9,7 +9,9 @@
 **Packages**: pandas, numpy, matplotlib, seaborn, sklearn, GetOldTweets3, langdetect, gensim, re, nltk, wordcloud
 
 ## Exploratory Data Analysis (EDA)
-![Line Plot](/img/line_plot.png)
- 
-![Correlation Matrix](/img/corr.png)
+
+<p align="center">
+  <img src="../img/line_plot.png" width="350" title="hover text">
+  <img src="../img/corr.png" width="350" alt="accessibility text">
+</p>
 
