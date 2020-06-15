@@ -9,6 +9,10 @@
 **Packages**: pandas, numpy, matplotlib, seaborn, sklearn, GetOldTweets3, langdetect, gensim, re, nltk, wordcloud
 
 ## Exploratory Data Analysis (EDA)
-<img src="line_plot.png"
-     alt="Markdown Monster icon"
+<img src="/Users/mpaz/Desktop/line_plot.png"
+     alt="Line Plot"
+     style="float: left; margin-right: 10px;" />
+     
+<img src="/Users/mpaz/Desktop/corr.png"
+     alt="Correlation"
      style="float: left; margin-right: 10px;" />
