@@ -11,7 +11,7 @@
 ## Exploratory Data Analysis (EDA)
 
 <p align="center">
-  <img src="../img/line_plot.png" width="350" title="hover text">
-  <img src="../img/corr.png" width="350" alt="accessibility text">
+  <img src="../Desktop/img/line_plot.png" width="350" alt="Line Plot">
+  <img src="../Desktop/img/corr.png" width="350" alt="Correlation Matrix">
 </p>
 
