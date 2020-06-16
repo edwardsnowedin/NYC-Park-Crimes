@@ -10,5 +10,5 @@
 
 ## Exploratory Data Analysis (EDA)
 
-[Line Plot](https://i.imgur.com/J0E1Pyt.png)
-[Correlation Matrix](https://i.imgur.com/lMKH9C8.png)
+![Line Plot](https://i.imgur.com/J0E1Pyt.png)
+![Correlation Matrix](https://i.imgur.com/lMKH9C8.png)
