@@ -10,8 +10,5 @@
 
 ## Exploratory Data Analysis (EDA)
 
-<p align="center">
-  <img src="../Desktop/img/line_plot.png" width="350" alt="Line Plot">
-  <img src="../Desktop/img/corr.png" width="350" alt="Correlation Matrix">
-</p>
-
+[Line Plot](https://i.imgur.com/J0E1Pyt.png)
+[Correlation Matrix](https://i.imgur.com/lMKH9C8.png)
